@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Thu May 24 12:21:50 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0163-92bd-ea68-0000009ccb90 
+on database directory C:\000000\JM\00_JM\JM_Perguntas_e_Respostas\JM_Perguntas_e_Respostas\Banco_De_Dados  with class loader sun.misc.Launcher$AppClassLoader@d93b30 
+Loaded from file:/C:/000000/JM/00_JM/JM_Perguntas_e_Respostas/JM_Perguntas_e_Respostas/dist/run433248778/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\000000\JM\00_JM\JM_Perguntas_e_Respostas\JM_Perguntas_e_Respostas
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
